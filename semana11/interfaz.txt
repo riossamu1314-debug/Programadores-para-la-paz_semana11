@@ -1,0 +1,9 @@
+Interfaz - Semana 11
+
+La interfaz tendria una seccion para crear una nueva causa comunitaria, con un formulario que incluya titulo, descripcion y fecha.
+
+Tambien tendria una vista de causas disponibles, donde los usuarios puedan leer las causas registradas en la plataforma.
+
+Cada causa mostraria un boton de apoyo, que permita a los usuarios respaldarla, y un contador de apoyos que muestre cuantas personas la han apoyado hasta el momento.
+
+La interfaz debe ser clara, sencilla y facil de usar, y no debe mostrar informacion privada de los usuarios, como nombres completos, documentos o datos de contacto.

@@ -1,0 +1,7 @@
+Autenticacion - Semana 11
+
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones dentro de la plataforma. Gracias a la autenticacion, el sistema puede saber quien esta realizando una accion y con que permisos cuenta.
+
+Algunas rutas deben estar protegidas porque pueden contener informacion privada, registros internos o acciones que no deberian estar disponibles para cualquier persona, como crear, editar o eliminar datos sensibles.
+
+No se deben exponer publicamente contrasenas, documentos de identidad, telefonos, direcciones, tokens, claves de API ni datos sensibles de la comunidad, ya que esto pondria en riesgo la privacidad y seguridad de los usuarios.
